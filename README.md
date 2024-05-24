@@ -1,3 +1,3 @@
 # task1
 
-[Skillbox Media](https://timeofprogramming.github.io/task1/)
+[task1-page](https://timeofprogramming.github.io/task1/)
